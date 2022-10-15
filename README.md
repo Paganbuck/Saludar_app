@@ -1,2 +1,4 @@
-# WebDevelopers_MINTIC
-Este repositorio es para el ciclo 4 del Bootcamp MinTic UdeA
+# Saludar_app
+
+Ya nos erá trabajp colaborativo de Mintic
+
